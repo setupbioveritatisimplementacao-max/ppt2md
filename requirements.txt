@@ -1,4 +1,4 @@
 flask
-markitdown
+markitdown[pptx]
 google-generativeai
 python-dotenv
